@@ -3,7 +3,7 @@
             <div class="footer_content">
                 <div class="footer_info"> Dima Fagurel</div>
                 <div class="footer_social">
-                    <a class="footer_social-link" href="#">
+                    <a class="footer_social-link" href="https://github.com/DimaFagurel">
                         <img class="footer_social-img" src="../assets/img/github.png" alt="">
                         GitHub
                     </a>
